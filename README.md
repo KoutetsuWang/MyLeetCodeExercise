@@ -1,2 +1,2 @@
-# MyLeetCodeExercise
+# MyLeetCode
 Do the leetcode! Go get a job! Survive in Canada!
